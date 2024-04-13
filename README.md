@@ -1,2 +1,2 @@
-# language practice C
+# practice C language 
 ## Author: Cong
