@@ -85,3 +85,92 @@ Ví dụ
 |---------------------------------------------|---------------|
 |  1000000              | 1000001000000 |
 |  3              | 12 ||  
+### Bài 12. Tính tổng : Sn = -1 + 2 - 3 + 4 - 5 + 6 + …. + ((-1)^n)*n   
+Input : Số nguyên dương n. ( 1 ≤ n ≤ 10^16).  
+Output : Kết quả của bài toán  
+Ví dụ  
+| Input                        | Output         |
+|---------------------------------------------|---------------|
+|  10000000000000000              | 5000000000000000 || 
+### Bài 13. Số chia hết lớn nhất  
+Cho 2 số nguyên dương a và b. Tìm số chia hết cho b lớn nhất và không vượt qua a. Chú ý không dùng vòng lặp và các hàm có sẵn.   
+Input : 2 số nguyên dương a, b ( 1 ≤ b ≤ a ≤108)   
+Output : Kết quả của bài toán  
+Ví dụ  
+| Input                        | Output         |
+|---------------------------------------------|---------------|
+|  19 5              | 15 |
+|  20 5              | 20 ||  
+### Bài 14. Số chia hết nhỏ nhất  
+Cho 2 số nguyên dương a và b. Tìm số chia hết cho b nhỏ nhất và lớn hơn hoặc bằng a. Chú ý không dùng vòng lặp và các hàm có sẵn.   
+Input : 2 số nguyên dương a, b ( 1 ≤ b ≤ a ≤10^8)  
+Output : Kết quả của bài toán 
+Ví dụ  
+| Input                        | Output         |
+|---------------------------------------------|---------------|
+|  19 5              | 20 |
+|  20 5              | 20 |
+|  21 5              | 25 ||  
+### Bài 15. Kiểm tra số chia hết cho 3 và 5    
+Input : Số nguyên n. (-10^18 ≤ n ≤ 10^18) 
+Output : In ra 1 nếu n chia hết cho cả 3 và 5, ngược lại in ra 0   
+Ví dụ
+| Input                        | Output         |
+|---------------------------------------------|---------------|
+|  30              | 1 |
+|  25              | 0 ||  
+### Bài 16. Kiểm tra năm nhuận   
+Năm nhuận là năm chia hết cho 400 hoặc ( chia hết cho 4 và không chia hết cho 100).   
+Input : Năm là một số nguyên. (-10^6 ≤ n ≤ 10^6) 
+Output : In ra INVALID nếu n là một số nguyên âm hoặc số 0. Nếu n là năm nhuận, in ra YES, ngược lại in ra NO  
+Ví dụ  
+| Input                        | Output         |
+|---------------------------------------------|---------------|
+|  2021              | NO |
+|  2020              | YES |
+|  -1982              | INVALID ||  
+### Bài 17. In ra số ngày của tháng   
+Input : 2 số nguyên t, n lần lượt là tháng và năm. (-10^6 ≤ t, n ≤ 10^6) 
+Output : Nếu tháng và năm nhập vào không hợp lệ ( tháng, năm không phải là số dương, tháng không năm trong các số từ 1 tới 12) in ra INVALID, ngược lại in ra số ngày trong năm. Chú ý tháng 2 của năm nhuận có 29 ngày  
+Ví dụ  
+| Input                        | Output         |
+|---------------------------------------------|---------------|
+|  2 2021              | 28 |
+|  1 2021              | 31 |
+|  14 2020             | INVALID |
+|  -1 2019             | INVALID |
+|  2 2020             | 29 || 
+### Bài 18. Kiểm tra chữ in thường   
+Input : Kí tự cần kiểm tra   
+Output : In ra YES nếu kí tự nhập vào là chữ cái in thường, NO trong trường hợp ngược lại  
+Ví dụ  
+| Input                        | Output         |
+|---------------------------------------------|---------------|
+|  A              | NO |
+|  a              | YES |
+|  %             | NO || 
+### Bài 19. Kiểm tra in hoa  
+Input : Kí tự cần kiểm tra  
+Output : In ra YES nếu kí tự nhập vào là chữ cái in hoa, NO trong trường hợp ngược lại  
+Ví dụ   
+| Input                        | Output         |
+|---------------------------------------------|---------------|
+|  A              | YES |
+|  a              | NO |
+|  %             | NO || 
+### Bài 20. Kiểm tra chữ cái  
+Input : Kí tự cần kiểm tra   
+Output : In ra YES nếu kí tự nhập vào là chữ cái, NO trong trường hợp ngược lại  
+Ví dụ  
+| Input                        | Output         |
+|---------------------------------------------|---------------|
+|  A              | YES |
+|  a              | YES |
+|  %             | NO |
+|  1             | NO ||  
+
+
+
+
+
+
