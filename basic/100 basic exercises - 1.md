@@ -7,7 +7,7 @@ Tính và in ra phần nguyên, phần dư của phép chia 2 số nguyên a, b.
   | Input                        | Output         |
 |---------------------------------------------|---------------|
 |  100 5              | 20 0 |
-|  14 6              | 2 2 |
+|  14 6              | 2 2 ||
 Bài 2. Tính toán giá trị biểu thức: Cho biểu thức A(x) = x^3 + 3x^2 + x + 1
 Với giá trị của x được nhập từ bàn phím, tính và in ra giá trị của biểu thức trên 
 Input: Số nguyên dương x không quá 105. 
