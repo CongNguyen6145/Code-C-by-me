@@ -1,5 +1,5 @@
 ## 20 basic exercises_1
-## Author : Nguyen Thanh Cong 2024-09-05
+## Author : Nguyen Thanh Cong 2024-05-09
 ### Bài 1. Phần nguyên, phần dư  
 Tính và in ra phần nguyên, phần dư của phép chia 2 số nguyên a, b.  
 Input: 2 số nguyên a, b với b khác 0 ( -10^18 ≤ a , b ≤ 10^18)  
