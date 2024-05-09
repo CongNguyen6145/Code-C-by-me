@@ -1,6 +1,6 @@
 ## 20 basic exercises_1
 ## Author : Nguyen Thanh Cong 
-## date : 2024-05-09
+## Date : 2024-05-09
 ## Description : 20 basic exercises_1.md are used to practice coding
 ### Bài 1. Phần nguyên, phần dư  
 Tính và in ra phần nguyên, phần dư của phép chia 2 số nguyên a, b.  
