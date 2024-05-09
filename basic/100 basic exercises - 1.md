@@ -8,14 +8,14 @@ Tính và in ra phần nguyên, phần dư của phép chia 2 số nguyên a, b.
 |---------------------------------------------|---------------|
 |  100 5              | 20 0 |
 |  14 6              | 2 2 ||
-#Bài 2. Tính toán giá trị biểu thức: Cho biểu thức A(x) = x^3 + 3x^2 + x + 1
+# Bài 2. Tính toán giá trị biểu thức: Cho biểu thức A(x) = x^3 + 3x^2 + x + 1
 Với giá trị của x được nhập từ bàn phím, tính và in ra giá trị của biểu thức trên 
 Input: Số nguyên dương x không quá 105. 
 Output: Kết quả của biểu thức A(x) 
 Ví dụ
 Input		       Output
 2		           23
-#Bài 3. Tính toán giá trị biểu thức 2
+# Bài 3. Tính toán giá trị biểu thức 2
 Yêu cầu: Cho ba số nguyên dương a , b và c, hãy tính S = a*(b+c)+b*(a+c).
 Dữ liệu: Một dòng ba số nguyên a, b, c ( 0 < |a|, |b|, |c |< 109), a và b cách nhau một khoảng trắng.
 Kết quả: Một dòng ghi giá trị S = a*(b+c) + b*(a+c). 
