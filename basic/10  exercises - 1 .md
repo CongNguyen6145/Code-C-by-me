@@ -33,4 +33,27 @@ Ví dụ
 |---------------------------------------------|---------------|
 |  10 2              | 12 8 20 5.00 |
 |  1000000 1000000              | 2000000 0 1000000000000 1.00 ||  
+### Bài 5. Tính chu vi, diện tích hình tròn   
+Input : Bán kính r của hình tròn là một số nguyên.(1≤r≤106)   
+Output : Chu vi và diện tích của hình tròn lấy độ chính xác với 2 chữ số   
+Ví dụ  
+| Input                        | Output         |
+|---------------------------------------------|---------------|
+|  10              | 62.80 314.00 || 
+### Bài 6. Tính khoảng cách  
+Tính khoảng cách Euclid giữa 2 điểm trong hệ tọa độ Oxy  
+Input : Tọa độ của 2 điểm (x1, y1) và (x2, y2) là các số nguyên.( -106 ≤xi, yi ≤106)     
+Output : Khoảng cách giữa 2 điểm lấy độ chính xác với 2 chữ số  
+Ví dụ  
+| Input                        | Output         |
+|---------------------------------------------|---------------|
+|  1 4 4 8              | 5.00 ||   
+### Bài 7. Chuyển đơn vị đo C và F  
+Công thức chuyển đơn vị đo nhiệt độ từ C sang F như sau: F = (C * 9 / 5) + 32  
+Viết chương trình C cho phép nhập vào nhiệt độ đo theo độ C là số nguyên dương không quá 106, thực hiện chuyển
+sang đơn vị đo độ F và in ra màn hình. (Lưu ý luôn lấy 2 chữ số thập phân sau dấu chấm phẩy)  
+Ví dụ  
+| Input                        | Output         |
+|---------------------------------------------|---------------|
+|  24              | 75.20 ||   
 
