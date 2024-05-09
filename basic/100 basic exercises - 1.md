@@ -1,4 +1,4 @@
-### 100 basic exercises-1
+### 100 basic exercises_1
 # Bài 1. Phần nguyên, phần dư
 Tính và in ra phần nguyên, phần dư của phép chia 2 số nguyên a, b. 
   Input: 2 số nguyên a, b với b khác 0 ( -1018 ≤ a , b ≤ 1018)
@@ -15,7 +15,7 @@ Output: Kết quả của biểu thức A(x)
 Ví dụ
 Input		       Output
 2		           23
-# Bài 3. Tính toán giá trị biểu thức 2
+# Bài 3. Tính toán giá trị biểu thức 
 Yêu cầu: Cho ba số nguyên dương a , b và c, hãy tính S = a*(b+c)+b*(a+c).
 Dữ liệu: Một dòng ba số nguyên a, b, c ( 0 < |a|, |b|, |c |< 109), a và b cách nhau một khoảng trắng.
 Kết quả: Một dòng ghi giá trị S = a*(b+c) + b*(a+c). 
