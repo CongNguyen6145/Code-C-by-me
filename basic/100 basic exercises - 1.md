@@ -4,7 +4,7 @@ Tính và in ra phần nguyên, phần dư của phép chia 2 số nguyên a, b.
   Input: 2 số nguyên a, b với b khác 0 ( -1018 ≤ a , b ≤ 1018)
   Output: Đáp án của bài toán được in trên 1 dòng
   Ví dụ:
-| Input                        | Output         |
+  | Input                        | Output         |
 |---------------------------------------------|---------------|
 |  100 5              | 20 0 |
 |  14 6              | 2 2 |
