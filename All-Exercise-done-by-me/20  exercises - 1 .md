@@ -264,8 +264,7 @@ Ví dụ
 |  3 1 3             | / |
 |  3 4 5             | NOSOL ||  
 ### Bài 31. Kết quả học tập   
-Yêu cầu: Cho biết điểm kiểm tra Tin học của 1 em học sinh (2 con điểm hệ số 1, 1 con điểm hệ số 2, 1 con điểm hệ số 3). In ra Kết quả học tập môn Tin học của em đó. Nếu điểm tổng kết >=8 đạt kết quả Giỏi, <8 và >=6,5 đạt kết quả Khá, <6,5 và
->=5 đạt kết quả Trung Bình, <5 đạt kết quả Yếu.   
+Yêu cầu: Cho biết điểm kiểm tra Tin học của 1 em học sinh (2 con điểm hệ số 1, 1 con điểm hệ số 2, 1 con điểm hệ số 3). In ra Kết quả học tập môn Tin học của em đó. Nếu điểm tổng kết >=8 đạt kết quả Giỏi, <8 và >=6,5 đạt kết quả Khá, <6,5 và >=5 đạt kết quả Trung Bình, <5 đạt kết quả Yếu.     
 Dữ liệu: Một dòng chứa 4 số điểm của học sinh.      
 Kết quả: Kết quả học tập môn Tin học của em học sinh ở dạng in hoa không dấu   
 Ví dụ     
