@@ -1,4 +1,4 @@
-## 20 basic exercises_1
+## 50 basic exercises_1
 ## Author : Nguyen Thanh Cong 
 ## Date : 2024-05-09
 ## Description : 20 basic exercises_1.md are used to practice coding
