@@ -397,9 +397,9 @@ Một số được coi là thuần nguyên tố nếu nó là số nguyên tố
 OUTPUT 1
 Ví dụ   
 | Input                        |
+|Output         |
 |---------------|
 |  23 199              |
-|Output         |
 |---------------------------------------------|
 |1 ||   
 
