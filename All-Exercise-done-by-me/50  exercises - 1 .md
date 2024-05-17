@@ -331,6 +331,71 @@ Ví dụ
 |---------------------------------------------|---------------|
 |  5 5 11               | NO |
 |  -5 5 12	              | YES || 
+### Bài 38. Mua nước   
+Polycarp muốn nấu một món súp. Để làm điều đó, anh ta cần mua chính xác n lít nước. Chỉ có hai loại chai nước trong cửa hàng gần đó - chai 1 lít và chai 2 lít. Có vô số chai của hai loại này trong cửa hàng.    
+Chai loại thứ nhất có gía a burles và chai loại thứ hai có giá tương ứng b burles. Polycarp muốn chi càng ít tiền càng tốt. Nhiệm vụ của bạn là tìm ra số tiền tối thiểu (bằng burles) Polycarp cần mua chính xác n lít nước ở cửa hàng gần đó nếu chai loại thứ nhất có giá a burles và chai loại thứ hai có giá b burles.   
+Input : 3 số n,a,b (1<=n<=10^12, 1<=a,b<=1000) tương ứng với số lit nước cần mua, a và b.   
+Output : Số tiền ít nhất để mua được n lit nước.  
+Ví dụ   
+| Input                        | Output         |
+|---------------------------------------------|---------------|
+|  1000000000000 42 88	              | 42000000000000 || 
+### Bài 39.   
+Bạn có số lượng xu không giới hạn với các giá trị 1,2,3,……n (từ 1 tới n). Bạn muốn chọn một số bộ tiền có tổng giá trị S.  
+Nó được phép có nhiều đồng tiền có cùng giá trị trong tập hợp. Số lượng đồng xu tối thiểu cần thiết để có được tổng S là bao nhiêu ?   
+Input : Dòng duy nhất của đầu vào chứa hai số nguyên n và S (1≤n≤100000, 1 ≤S≤10^9)    
+Output : In chính xác một số nguyên - số lượng xu tối thiểu cần thiết để có được tổng S.  
+Ví dụ   
+| Input                        | Output         |
+|---------------------------------------------|---------------|
+|  6 16               | 3 |
+|  5 11	              | 3 || 
+### Bài 40.   
+Allen có rất nhiều tiền. Anh ta có n đô la trong ngân hàng. Vì lý do bảo mật, anh ta muốn rút tiền mặt (chúng tôi sẽ không tiết lộ lý do tại đây).   
+Các mệnh giá cho hóa đơn đô la là 1, 5, 10, 20, 100. Số hóa đơn tối thiểu mà Allen có thể nhận được sau khi rút toàn bộ số dư của mình là bao nhiêu?   
+Input : Số nguyên dương n (1<=n<=1000 000 000).   
+Output : Số lượng hóa đơn nhỏ nhất mà Allen có thể nhận được   
+Ví dụ   
+| Input                        | Output         |
+|---------------------------------------------|---------------|
+|  125	              | 3 || 
+### Bài 41.   
+Dreamoon muốn leo lên một cầu thang gồm n bước. Anh ta có thể leo 1 hoặc 2 bước mỗi lần di chuyển. Dreamoon muốn số lần di chuyển là bội số của một số nguyên m.   
+Số lượng di chuyển tối thiểu làm cho anh ta leo lên đỉnh cầu thang thỏa mãn điều kiện của anh ta là gì?   
+Input : Dòng đơn chứa hai số nguyên cách nhau n, m (0 <n ≤ 10000, 1 <m<=10).   
+Output : In một số nguyên duy nhất - số lượng di chuyển tối thiểu là bội số của m. Nếu không có cách nào anh ta có thể leo lên thỏa mãn điều kiện in - 1.   
+Ví dụ   
+| Input                        | Output         |
+|---------------------------------------------|---------------|
+|  10 2	              | 6 || 
+Chú ý : không sử dụng vòng lặp   
+### Bài 42.   
+Hôm nay Patrick chờ đợi một chuyến thăm từ người bạn SpPal của mình. Để chuẩn bị cho chuyến thăm, Patrick cần mua một số quà tặng ở hai cửa hàng gần nhà. Có một con đường dài d1 mét giữa nhà anh ta và cửa hàng đầu tiên và một con đường dài d2 mét giữa nhà anh ta và cửa hàng thứ hai. Ngoài ra, có một con đường dài d3 kết nối trực tiếp hai cửa hàng này với nhau. Giúp Patrick tính toán khoảng cách tối thiểu mà anh ta cần đi bộ để đến cả hai cửa hàng và trở về nhà.   
+Patrick luôn bắt đầu tại nhà của mình. Anh ta nên ghé thăm cả hai cửa hàng chỉ di chuyển dọc theo ba con đường hiện có và trở về nhà của anh ta. Anh ta không ngại ghé thăm cùng một cửa hàng hoặc đi qua cùng một con đường nhiều lần. Mục tiêu duy nhất là giảm thiểu tổng quãng đường đã đi.   
+Input : Dòng đầu tiên của đầu vào chứa ba số nguyên d1, d2, d3 (1 <=d1, d2, d3<= 10^8) - độ dài của các đường dẫn.   
+d1 là chiều dài của con đường nối nhà Patrick và cửa hàng đầu tiên;    
+d2 là chiều dài của con đường nối nhà Patrick và cửa hàng thứ hai;    
+d3 là chiều dài của đường dẫn kết nối cả hai cửa hàng.   
+Output : In khoảng cách tối thiểu mà Patrick sẽ phải đi bộ để ghé thăm cả hai cửa hàng và trở về   
+Ví dụ   
+| Input                        | Output         |
+|---------------------------------------------|---------------|
+|  10 20 30	              | 60 || 
+- [video bài này](https://www.youtube.com/watch?v=CgGhk9Mki0g)
+### Bài 43.   
+Một người lính muốn mua w quả chuối trong cửa hàng. Anh ta phải trả k đô la cho quả chuối đầu tiên, 2k đô la cho quả thứ hai và cứ thế (nói cách khác, anh ta phải trả i · k đô la cho quả chuối thứ i).   
+Anh ta có n đô la. Anh ta phải vay bao nhiêu đô la từ người bạn lính của mình để mua chuối?  
+Input : Dòng đầu tiên chứa ba số nguyên dương k, n, w (1 ≤ k, w ≤1000, 0 ≤n≤10^9), chi phí của quả chuối đầu tiên, số đô la ban đầu mà người lính có và số chuối anh ta muốn.   
+Output : Xuất ra một số nguyên - số đô la mà người lính phải vay từ bạn của mình. Nếu anh ta không phải vay tiền, đầu ra là 0.   
+Ví dụ   
+| Input                        | Output         |
+|---------------------------------------------|---------------|
+|  3 17 4              | 13 ||   
+
+
+
+
+
 
 
 
